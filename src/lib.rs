@@ -101,7 +101,7 @@ mod d2s_intrinsics;
 mod d2s_small_table;
 mod digit_table;
 pub mod f2s;
-mod pretty;
+pub mod pretty;
 
 pub use buffer::{Buffer, Float};
 
