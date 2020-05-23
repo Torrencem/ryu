@@ -1,5 +1,5 @@
-mod exponent;
-mod mantissa;
+pub mod exponent;
+pub mod mantissa;
 
 use core::{mem, ptr};
 
